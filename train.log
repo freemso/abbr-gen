@@ -1,0 +1,84 @@
+2017-08-16 23:00:37,654: INFO: Training model...
+Train on 52484 samples, validate on 6560 samples
+Epoch 1/100
+52484/52484 [==============================] - 47s - loss: 0.5103 - seq_accuracy: 0.1216 - val_loss: 0.4844 - val_seq_accuracy: 0.1517
+Epoch 2/100
+52484/52484 [==============================] - 46s - loss: 0.4528 - seq_accuracy: 0.1594 - val_loss: 0.4635 - val_seq_accuracy: 0.1582
+Epoch 3/100
+52484/52484 [==============================] - 46s - loss: 0.4232 - seq_accuracy: 0.1818 - val_loss: 0.4498 - val_seq_accuracy: 0.1686
+Epoch 4/100
+52484/52484 [==============================] - 46s - loss: 0.3963 - seq_accuracy: 0.1995 - val_loss: 0.4494 - val_seq_accuracy: 0.1841
+Epoch 5/100
+52484/52484 [==============================] - 46s - loss: 0.3688 - seq_accuracy: 0.2171 - val_loss: 0.4463 - val_seq_accuracy: 0.1789
+Epoch 6/100
+52484/52484 [==============================] - 46s - loss: 0.3414 - seq_accuracy: 0.2320 - val_loss: 0.4482 - val_seq_accuracy: 0.1890
+Epoch 7/100
+52484/52484 [==============================] - 46s - loss: 0.3142 - seq_accuracy: 0.2517 - val_loss: 0.4725 - val_seq_accuracy: 0.1852
+Epoch 8/100
+52484/52484 [==============================] - 46s - loss: 0.2884 - seq_accuracy: 0.2696 - val_loss: 0.4786 - val_seq_accuracy: 0.2150
+Epoch 9/100
+52484/52484 [==============================] - 46s - loss: 0.2646 - seq_accuracy: 0.2929 - val_loss: 0.4956 - val_seq_accuracy: 0.2105
+Epoch 10/100
+52484/52484 [==============================] - 46s - loss: 0.2434 - seq_accuracy: 0.3062 - val_loss: 0.5096 - val_seq_accuracy: 0.2190
+Epoch 11/100
+52484/52484 [==============================] - 46s - loss: 0.2251 - seq_accuracy: 0.3223 - val_loss: 0.5258 - val_seq_accuracy: 0.2241
+Epoch 12/100
+52484/52484 [==============================] - 46s - loss: 0.2090 - seq_accuracy: 0.3376 - val_loss: 0.5393 - val_seq_accuracy: 0.2234
+Epoch 13/100
+52484/52484 [==============================] - 46s - loss: 0.1947 - seq_accuracy: 0.3518 - val_loss: 0.5626 - val_seq_accuracy: 0.2321
+Epoch 14/100
+52484/52484 [==============================] - 46s - loss: 0.1831 - seq_accuracy: 0.3622 - val_loss: 0.5837 - val_seq_accuracy: 0.2314
+Epoch 15/100
+52484/52484 [==============================] - 46s - loss: 0.1728 - seq_accuracy: 0.3674 - val_loss: 0.6034 - val_seq_accuracy: 0.2344
+Epoch 16/100
+52484/52484 [==============================] - 46s - loss: 0.1639 - seq_accuracy: 0.3792 - val_loss: 0.6310 - val_seq_accuracy: 0.2512
+Epoch 17/100
+52484/52484 [==============================] - 46s - loss: 0.1556 - seq_accuracy: 0.3847 - val_loss: 0.6483 - val_seq_accuracy: 0.2392
+Epoch 18/100
+52484/52484 [==============================] - 46s - loss: 0.1490 - seq_accuracy: 0.3890 - val_loss: 0.6685 - val_seq_accuracy: 0.2449
+Epoch 19/100
+52484/52484 [==============================] - 46s - loss: 0.1428 - seq_accuracy: 0.3916 - val_loss: 0.7013 - val_seq_accuracy: 0.2516
+Epoch 20/100
+52484/52484 [==============================] - 46s - loss: 0.1366 - seq_accuracy: 0.4013 - val_loss: 0.7328 - val_seq_accuracy: 0.2588
+Epoch 21/100
+52484/52484 [==============================] - 46s - loss: 0.1315 - seq_accuracy: 0.4017 - val_loss: 0.7540 - val_seq_accuracy: 0.2677
+Epoch 22/100
+52484/52484 [==============================] - 46s - loss: 0.1279 - seq_accuracy: 0.4054 - val_loss: 0.7759 - val_seq_accuracy: 0.2521
+Epoch 23/100
+52484/52484 [==============================] - 46s - loss: 0.1240 - seq_accuracy: 0.4103 - val_loss: 0.7963 - val_seq_accuracy: 0.2534
+Epoch 24/100
+52484/52484 [==============================] - 46s - loss: 0.1201 - seq_accuracy: 0.4155 - val_loss: 0.8058 - val_seq_accuracy: 0.2601
+Epoch 25/100
+52484/52484 [==============================] - 46s - loss: 0.1166 - seq_accuracy: 0.4161 - val_loss: 0.8387 - val_seq_accuracy: 0.2631
+Epoch 26/100
+52484/52484 [==============================] - 46s - loss: 0.1144 - seq_accuracy: 0.4140 - val_loss: 0.8643 - val_seq_accuracy: 0.2526
+Epoch 27/100
+52484/52484 [==============================] - 46s - loss: 0.1111 - seq_accuracy: 0.4206 - val_loss: 0.8753 - val_seq_accuracy: 0.2698
+Epoch 28/100
+52484/52484 [==============================] - 46s - loss: 0.1097 - seq_accuracy: 0.4202 - val_loss: 0.9014 - val_seq_accuracy: 0.2617
+Epoch 29/100
+52484/52484 [==============================] - 46s - loss: 0.1064 - seq_accuracy: 0.4219 - val_loss: 0.8879 - val_seq_accuracy: 0.2496
+Epoch 30/100
+52484/52484 [==============================] - 46s - loss: 0.1054 - seq_accuracy: 0.4242 - val_loss: 0.9349 - val_seq_accuracy: 0.2714
+Epoch 31/100
+52484/52484 [==============================] - 46s - loss: 0.1019 - seq_accuracy: 0.4289 - val_loss: 0.9519 - val_seq_accuracy: 0.2655
+Epoch 32/100
+52484/52484 [==============================] - 46s - loss: 0.1023 - seq_accuracy: 0.4258 - val_loss: 0.9201 - val_seq_accuracy: 0.2675
+Epoch 33/100
+52484/52484 [==============================] - 46s - loss: 0.0996 - seq_accuracy: 0.4264 - val_loss: 0.9820 - val_seq_accuracy: 0.2760
+Epoch 34/100
+52484/52484 [==============================] - 46s - loss: 0.0971 - seq_accuracy: 0.4291 - val_loss: 1.0048 - val_seq_accuracy: 0.2655
+Epoch 35/100
+52484/52484 [==============================] - 46s - loss: 0.0958 - seq_accuracy: 0.4303 - val_loss: 1.0010 - val_seq_accuracy: 0.2626
+Epoch 36/100
+52484/52484 [==============================] - 46s - loss: 0.0965 - seq_accuracy: 0.4313 - val_loss: 1.0067 - val_seq_accuracy: 0.2598
+Epoch 37/100
+52484/52484 [==============================] - 46s - loss: 0.0931 - seq_accuracy: 0.4334 - val_loss: 1.0154 - val_seq_accuracy: 0.2740
+Epoch 38/100
+52484/52484 [==============================] - 46s - loss: 0.0945 - seq_accuracy: 0.4287 - val_loss: 1.0035 - val_seq_accuracy: 0.2596
+Epoch 39/100
+52484/52484 [==============================] - 46s - loss: 0.0916 - seq_accuracy: 0.4336 - val_loss: 1.0457 - val_seq_accuracy: 0.2725
+Epoch 00038: early stopping
+2017-08-16 23:31:08,114: INFO: Saving model...
+2017-08-16 23:31:08,143: INFO: Evaluating model...
+2017-08-16 23:31:09,865: INFO: Accuracy: 0.2865853658536585

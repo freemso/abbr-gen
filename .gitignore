@@ -1,0 +1,7 @@
+__pycache__
+.idea/
+data/
+model/
+out/
+temp/
+.DS_Store
